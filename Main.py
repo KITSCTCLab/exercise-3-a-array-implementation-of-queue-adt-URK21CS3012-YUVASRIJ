@@ -126,4 +126,6 @@ for index in range(length_of_text):
 
 is_palindrome = True
 '''
+
+
 pop the top character from stack
